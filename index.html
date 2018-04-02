@@ -4,8 +4,35 @@
     <meta charset="utf-8">
     <title>title</title>
     <style>
+      #glaw{
+  display:inline;
+  width:880px;
+}
+.blok1, .blok2, .blok3, .blok4{
+  float:left;
+  margin:3px 3px 3px 5px;
+  background: #F0FCE8;
+  width:200px;
+  height:200px;
+  padding: 5px;
+  text-align: center;
+   border-radius: 4px;
+  box-shadow: rgba(0,0,0,1.2) 0px 1px 3px;
+}
+.blok5, .blok6, .blok7, .blok8{
+  float:left;
+  margin:3px 3px 3px 3px;
+   background: #F0FCE8;
+  width:200px;
+  height:200px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: rgba(0,0,0,1.2) 0px 1px 3px;
+}
       .text {
         text-align:  center;
+        text-
       }
       body{
         background: url(image.jpg);
@@ -19,19 +46,6 @@
         padding: 256px;
         align: centre;
       }
-      #rightcol {
-    position: relative; /* Относительное позиционирование */
-    float: left; /* Совмещение колонок по горизонтали */
-    left: -50px; /* Сдвиг слоя влево */
-    top: 50px; /* Смещение слоя вниз */
-    width: 120px; /* Ширина слоя */
-    background: #e0e0e0; /* Цвет фона */
-    border: solid 1px black; /* Параметры рамки */
-   }
-     #rightcol P {
-    padding: 10px; /* Поля вокруг текста */
-    padding-top: 0 /* Значение поля сверху */
-   }
     </style>
   </head>
    <body>
@@ -40,9 +54,15 @@
        <p1>Учусь в КрНУ имени Остроградского</p1>
        <p2>по специальности "ПМА-16-1"</p2>
      </div>
-     <div id="rightcol">
-       <p2>LB1</p2>
-       <p3>LB2</p3>
-     </div>
+     <div id="glaw">
+      <div class="blok1"></div>
+    <div class="blok2">Блок 2</div>
+    <div class="blok3">Блок 3</div>
+    <div class="blok4">Блок 4</div>
+    <div class="blok5">Блок 5</div>
+    <div class="blok6">Блок 6</div>
+    <div class="blok7">Блок 7</div>
+    <div class="blok8">Блок 8</div>
+  </div>
   </body>
  </html>
