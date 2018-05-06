@@ -1,165 +1,68 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>  
-   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>  
-   <title>Ruseller Email Newsletter</title>  
-   <style type="text/css">  
-    a {color: #4A72AF;}  
-    body, #header h1, #header h2, p {margin: 0; padding: 0;}  
-    #main {border: 1px solid #cfcece;}  
-    img {display: block;}  
-    #top-message p, #bottom-message p {color: #3f4042; font-size: 12px; font-family: Arial, Helvetica, sans-serif; }  
-    #header h1 {color: #ffffff !important; font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", sans-serif; font-size: 24px; margin-bottom: 0!important; padding-bottom: 0; }  
-    #header h2 {color: #ffffff !important; font-family: Arial, Helvetica, sans-serif; font-size: 24px; margin-bottom: 0 !important; padding-bottom: 0; }  
-    #header p {color: #ffffff !important; font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", sans-serif; font-size: 12px;  }  
-    h1, h2, h3, h4, h5, h6 {margin: 0 0 0.8em 0;}  
-    h3 {font-size: 28px; color: #444444 !important; font-family: Arial, Helvetica, sans-serif; }  
-    h4 {font-size: 22px; color: #4A72AF !important; font-family: Arial, Helvetica, sans-serif; }  
-    h5 {font-size: 18px; color: #444444 !important; font-family: Arial, Helvetica, sans-serif; }  
-    p {font-size: 12px; color: #444444 !important; font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", sans-serif; line-height: 1.5;}  
-   </style>  
-</head>    
-<body> 
-<table>width="100%" cellpadding="0" cellspacing="0" bgcolor="e4e4e4"><tr><td>  
-<table id="top-message" cellpadding="20" cellspacing="0" width="600" align="center">  
-        <tr>  
-            <td align="center">  
-                <p>Trouble viewing this email? <a href="#">View in Browser</a></p>  
-            </td>  
-        </tr>  
-    </table><!-- top message -->  
-<table id="main" width="600" align="center" cellpadding="0" cellspacing="15" bgcolor="ffffff">  
-        <tr>  
-            <td>  
-                <table id="header" cellpadding="10" cellspacing="0" align="center" bgcolor="8fb3e9">  
-                    <tr>  
-                        <td width="570" bgcolor="7aa7e9"><h1>Communitech Venture Services</h1></td>  
-                    </tr>  
-                    <tr>  
-                        <td width="570" bgcolor="8fb3e9" style="background: url(http://tessat.s3.amazonaws.com/email-bg.jpg);"><h2 style="color:#ffffff!important">News and Events</h2></td>  
-                    </tr>  
-                    <tr>  
-                        <td width="570" align="right" bgcolor="7aa7e9"><p>July 2010</p></td>  
-                    </tr>  
-                </table><!-- header -->  
-            </td>  
-        </tr><!-- header -->  
-        <tr>  
-            <td></td>  
-        </tr>  
-        <tr>  
-            <td>  
-                <table id="content-1" cellpadding="0" cellspacing="0" align="center">  
-                    <tr>  
-                        <td width="170" valign="top">  
-                            <table cellpadding="5" cellspacing="0">  
-                                <tr><td bgcolor="d0d0d0"><img src="http://tessat.s3.amazonaws.com/coins_small.jpg" width="170" /></td></tr></table>  
-                        </td>  
-                        <td width="15"></td>  
-                        <td width="375" valign="top" colspan="3">  
-                            <h3>All New Site Design</h3>  
-                            <h4>It's 150% Better and 40% More Efficient!</h4>  
-                        </td>  
-                    </tr>  
-                </table><!-- content 1 -->  
-            </td>  
-        </tr><!-- content 1 -->  
-        <tr>  
-            <td>  
-                <table id="content-2" cellpadding="0" cellspacing="0" align="center">  
-                    <tr>  
-                        <td width="570"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>  
-                    </tr>  
-                </table><!-- content-2 -->  
-            </td>  
-        </tr><!-- content-2 -->  
-        <tr>  
-            <td height="30"><img src="http://dummyimage.com/570x30/fff/fff" /></td>  
-        </tr>  
-        <tr>  
-            <td>  
-                <table id="content-3" cellpadding="0" cellspacing="0" align="center">  
-                    <tr>  
-                        <td width="170" valign="top" bgcolor="d0d0d0" style="padding:5px;">  
-                            <img src="http://tessat.s3.amazonaws.com/crayons.jpg" width="170" />  
-                        </td>  
-                        <td width="15"></td>  
-                        <td width="170" valign="top" bgcolor="d0d0d0" style="padding:5px;">  
-                            <img src="http://tessat.s3.amazonaws.com/handshake.jpg" />  
-                        </td>  
-                        <td width="15"></td>  
-                        <td width="170" valign="top" bgcolor="d0d0d0" style="padding:5px;">  
-                            <img src="http://tessat.s3.amazonaws.com/moo02.jpg" />  
-                        </td>  
-                    </tr>  
-                </table><!-- content-3 -->  
-            </td>  
-        </tr><!-- content-3 -->  
-        <tr>  
-            <td>  
-                <table id="content-4" cellpadding="0" cellspacing="0" align="center">  
-                    <tr>  
-                        <td width="180" valign="top">  
-                            <h5>Exciting New Products!</h5>  
-                            <p> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.                                   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum</p>  
-                        </td>  
-                        <td width="15"></td>  
-                        <td width="180" valign="top">  
-                            <h5>A Newsletter Every Month</h5>  
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia  
-                                deserunt mollit anim id est laborum.</p>  
-                        </td>  
-                        <td width="15"></td>  
-                        <td width="180" valign="top">  
-                            <h5>New and Improved Forum</h5>  
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,  
-                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  
-                        </td>  
-                    </tr>  
-                </table><!-- content-4 -->  
-            </td>  
-        </tr><!-- content-4 -->  
-        <tr>  
-            <td height="30"><img src="http://dummyimage.com/570x30/fff/fff" /></td>  
-        </tr>  
-        <tr>  
-            <td>  
-                <table id="content-5" cellpadding="0" cellspacing="0" align="center">  
-                    <tr>  
-                        <td width="267" valign="top">  
-                            <table cellpadding="5" cellspacing="0" bgcolor="d0d0d0"><tr><td>  
-                                <img src="http://tessat.s3.amazonaws.com/card18.jpg" />  
-                            </td></tr></table>  
-                        </td>  
-                        <td width="15"></td>  
-                        <td width="278" valign="top">  
-                            <h4>This is a heading</h4>  
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>  
-                        </td>  
-                    </tr>  
-                </table><!-- content-5 -->  
-            </td>  
-        </tr><!-- content-5 -->  
-        <tr>  
-            <td height="30"><img src="http://dummyimage.com/570x30/fff/fff" /></td>  
-        </tr>  
-          <tr> 
-            <td>  
-                <table id="content-6" cellpadding="0" cellspacing="0" align="center">  
-                    <p align="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>  
-                    <p align="center"><a href="#">CALL TO ACTION</a></p>  
-                </table>  
-            </td>  
-        </tr>  
-    </table><!-- main -->  
-    <table id="bottom-message" cellpadding="20" cellspacing="0" width="600" align="center">  
-        <tr>  
-            <td align="center">  
-                <p>You are receiving this email because you signed up for updates</p>  
-                <p><a href="#">Unsubscribe instantly</a> | <a href="#">Forward to a friend</a> | <a href="#">View in Browser</a></p>  
-            </td>  
-        </tr>  
-    </table><!-- top message -->  
-</td></tr></table><!-- wrapper -->  
-</body>  
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width"/>
+
+
+</head>
+<body style="width: 100% !important; height: 100%; background: #efefef; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; ">
+<table class="body-wrap" style="width: 100% !important; height: 100%; background: #efefef; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; ">
+    <tr>
+        <td class="container" style="display: block !important; clear: both !important; margin: 0 auto !important; max-width: 580px !important;">
+
+            <!-- Начало сообщения -->
+            <table style="width: 100% !important; border-collapse: collapse;margin: 0; padding: 0; font-size: 100%; font-family: 'Avenir Next', 'Helvetica Neue', 'Helvetica', 'Helvetica', 'Arial', 'sans-serif'; line-height: 1.65;">
+                <tr>
+                    <td align="center" class="masthead" style="padding: 80px 0; background: #2d2d2d; color: white;">
+
+                        <a href="http://математика.укр">
+							<img src="http://математика.укр/design/logo-3.png" style="max-width: 100%; margin: 0 auto; display: block;">
+						</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="content" style="background: white; padding: 30px 35px;">
+					
+                        <h2 style="font-size: 28px; margin-bottom: 20px; line-height: 1.25;">Привіт,</h2>
+                        <p style="font-size: 16px; font-weight: normal; margin-bottom: 20px;">Хочу запропонувати Вам сайт онлайн-навчання для студентів КрНУ ім. М. Остроградського та всіх бажаючих. Сайт створено кафедрою ІВМ. На ньому Ви отримаєте навчальні та методичні матеріали, пройдете онлайн-тестування, приймете участь у різноманітних олімпіадах: по математиці й програмуванню, і по завершенню отримаєте електронний сертифікат. Чекаємо на Вас!</p>
+
+                        <table style="width: 100% !important; border-collapse: collapse;">
+                            <tr>
+                                <td align="center">
+                                    <p style="font-size: 16px; font-weight: normal; margin-bottom: 20px;">
+                                        <a href="http://математика.укр/course/index.php?categoryid=17" style="text-align: center; display: inline-block; color: white; background: #2d2d2d; border: solid #2d2d2d; border-width: 10px 20px 8px; font-weight: bold; border-radius: 4px; text-decoration: none;">Переглянути доступні олімпіади</a>
+                                    </p>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <p style="font-size: 16px; font-weight: normal; margin-bottom: 20px;">До речі, якщо Ви зацікавилися цією пропозицією, то раджу завітати до <a href="http://ibm.kdu.edu.ua/" title="Кафедра ІВМ">сайту кафедри</a> або <a href="http://www.kdu.edu.ua/" title="КрНУ ім. Остроградського">сайту університету</a>.</p>
+
+                        <p style="font-size: 16px; font-weight: normal; margin-bottom: 20px;"><em>Абрамов Максим, група СОІ-16-1</em></p>
+
+                    </td>
+                </tr>
+            </table>
+
+        </td>
+    </tr>
+    <tr>
+        <td class="container" align="center" style="display: block !important; clear: both !important; margin: 0 auto !important; max-width: 580px !important;">
+
+            <!-- Подпись -->
+            <table style="width: 100% !important; border-collapse: collapse; margin: 0; padding: 0; font-size: 100%; font-family: 'Avenir Next', 'Helvetica Neue', 'Helvetica', 'Helvetica', 'Arial', 'sans-serif';">
+                <tr>
+                    <td class="content footer" style="background: none;" align="center">
+                        <p style="margin-bottom: 0; color: #888; text-align: center; font-size: 14px;">Ви отримали це повідомлення, тому що залишили свій e-mail на сайті компанії <a href="#" style="color: #888; text-decoration: none; font-weight: bold;">sladkOy Inc.</a></p>
+                        <p style="margin-bottom: 0; color: #888; text-align: center; font-size: 14px;">Якщо цей лист потрапив до вас помилково або ви більше не бажаєте отримувати нашу розсилку, будь ласка, перейдіть за посиланням <a href="#" style="color: #888; text-decoration: none; font-weight: bold;">натиснувши тут</a>.</p>
+                    </td>
+                </tr>
+            </table>
+
+        </td>
+    </tr>
+</table>
+</body>
 </html>
