@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height = "400px" width =
-"400px">
- <circle cx="100px" cy="100px" r="100px" fill="red" />
- <circle cx="150px" cy="150px" r="100px" fill="blue" />
- <circle cx="200px" cy="200px" r="100px" fill="green" />
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height = "1000px" width =
+"900px">
+ <circle cx="100px" cy="550px" r="50px" fill="red" />
+ <circle cx="150px" cy="550px" r="50px" fill="red" />
+ <circle cx="200px" cy="550px" r="50px" fill="red" />
+ <circle cx="250px" cy="550px" r="50px" fill="red" />
+ <circle cx="300px" cy="550px" r="50px" fill="red" />
+ <circle cx="350px" cy="550px" r="50px" fill="red" />
+ <circle cx="400px" cy="550px" r="50px" fill="red" />
+ <circle cx="450px" cy="550px" r="50px" fill="red" />
+ <circle cx="500px" cy="550px" r="50px" fill="red" />
+ <circle cx="550px" cy="550px" r="50px" fill="red" />
+ <circle cx="600px" cy="550px" r="50px" fill="red" />
+ <circle cx="650px" cy="550px" r="50px" fill="red" />
+ <circle cx="700px" cy="550px" r="50px" fill="red" />
+ <circle cx="750px" cy="550px" r="50px" fill="red" />
+ <circle cx="800px" cy="550px" r="50px" fill="red" />
+ <circle cx="850px" cy="550px" r="50px" fill="red" />
 </svg> 
 
