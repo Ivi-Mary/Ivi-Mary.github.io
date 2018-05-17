@@ -10,17 +10,39 @@ begin="0s" dur="10s" repeatCount="1" />
  <circle cx="300px" cy="550px" r="50px" fill="red" />
  <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
 begin="0s" dur="10s" repeatCount="1" />
- </circle>
  <circle cx="400px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
  <circle cx="500px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
  <circle cx="600px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
  <circle cx="700px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
  <circle cx="800px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
  <circle cx="900px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
  <circle cx="1000px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
  <circle cx="1100px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
  <circle cx="1200px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
  <circle cx="1300px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
  <circle cx="1400px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
+  </circle>
 </svg> 
 
