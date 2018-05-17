@@ -1,47 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" height = "2000px" width =
 "2000px">
- <circle cx="100px" cy="550px" r="50px" translate(100 200) fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="200px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="300px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="400px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="500px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="600px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="700px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="800px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="900px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="1000px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="1100px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="1200px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="1300px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="1400px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
+ <line x1=200 y1=1000 x2=900 y2=1000 stroke="black" stroke-width=2>
+ <line x1=900 y1=1000 x2=1250 y2=750 stroke="black" stroke-width=2>
+ <line x1=1250 y1=750 x2=750 y2=200 stroke="black" stroke-width=2>
+ <line x1=200 y1=1000 x2=750 y2=200 stroke="black" stroke-width=2
 </svg> 
 
