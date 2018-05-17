@@ -43,5 +43,8 @@ begin="0s" dur="10s" repeatCount="1" />
  <circle cx="1400px" cy="550px" r="50px" fill="red" />
  <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
 begin="0s" dur="10s" repeatCount="1" />
+ <circle cx="1400px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
 </svg> 
 
