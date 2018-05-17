@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height = "1000px" width =
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height = "2000px" width =
 "2000px">
  <circle cx="100px" cy="550px" r="50px" fill="red" />
  <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
