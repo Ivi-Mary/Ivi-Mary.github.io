@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" height = "2000px" width =
 "2000px">
- <circle cx="100px" cy="550px" r="50px" fill="red" />
+ <circle cx="100px" cy="550px" r="50px" translate(100 200) fill="red" />
  <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
 begin="0s" dur="10s" repeatCount="1" />
  <circle cx="200px" cy="550px" r="50px" fill="red" />
@@ -38,12 +38,6 @@ begin="0s" dur="10s" repeatCount="1" />
  <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
 begin="0s" dur="10s" repeatCount="1" />
  <circle cx="1300px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="1400px" cy="550px" r="50px" fill="red" />
- <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
-begin="0s" dur="10s" repeatCount="1" />
- <circle cx="1400px" cy="550px" r="50px" fill="red" />
  <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
 begin="0s" dur="10s" repeatCount="1" />
  <circle cx="1400px" cy="550px" r="50px" fill="red" />
