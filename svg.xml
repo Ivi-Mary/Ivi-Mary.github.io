@@ -4,11 +4,9 @@
  <circle cx="100px" cy="550px" r="50px" fill="red" />
  <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
 begin="0s" dur="10s" repeatCount="1" />
- </circle>
  <circle cx="200px" cy="550px" r="50px" fill="red" />
  <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
 begin="0s" dur="10s" repeatCount="1" />
- </circle>
  <circle cx="300px" cy="550px" r="50px" fill="red" />
  <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
 begin="0s" dur="10s" repeatCount="1" />
