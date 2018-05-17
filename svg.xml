@@ -2,20 +2,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" height = "1000px" width =
 "900px">
  <circle cx="100px" cy="550px" r="50px" fill="red" />
- <circle cx="150px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
+ </circle>
  <circle cx="200px" cy="550px" r="50px" fill="red" />
- <circle cx="250px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
+ </circle>
  <circle cx="300px" cy="550px" r="50px" fill="red" />
- <circle cx="350px" cy="550px" r="50px" fill="red" />
+ <animate attributeName="opacity" attributeType="CSS" from="0" to="1"
+begin="0s" dur="10s" repeatCount="1" />
+ </circle>
  <circle cx="400px" cy="550px" r="50px" fill="red" />
- <circle cx="450px" cy="550px" r="50px" fill="red" />
  <circle cx="500px" cy="550px" r="50px" fill="red" />
- <circle cx="550px" cy="550px" r="50px" fill="red" />
  <circle cx="600px" cy="550px" r="50px" fill="red" />
- <circle cx="650px" cy="550px" r="50px" fill="red" />
  <circle cx="700px" cy="550px" r="50px" fill="red" />
- <circle cx="750px" cy="550px" r="50px" fill="red" />
  <circle cx="800px" cy="550px" r="50px" fill="red" />
- <circle cx="850px" cy="550px" r="50px" fill="red" />
+ <circle cx="900px" cy="550px" r="50px" fill="red" />
+ <circle cx="1000px" cy="550px" r="50px" fill="red" />
+ <circle cx="1100px" cy="550px" r="50px" fill="red" />
+ <circle cx="1200px" cy="550px" r="50px" fill="red" />
+ <circle cx="1300px" cy="550px" r="50px" fill="red" />
+ <circle cx="1400px" cy="550px" r="50px" fill="red" />
 </svg> 
 
