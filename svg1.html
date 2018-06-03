@@ -1,4 +1,5 @@
 <html>
+  <h1>SVG-анимация</h1><br>
 <svg width="650" height="350">
   
    <style type="text/css">
@@ -8,13 +9,45 @@
   margin: 1em auto;
 }
 p {
-  color: #aaa;
+  color: black;
   text-align: center;
   margin: 2em 0;
 }
    </style>
   
-  <circle id="rc3" r="30"  cx="60" cy="200" fill="red" stroke ="1" />
+  <text id="t03" x="55" y="270" fill="black" font-size="18" font-weight="900" opacity="0">3</text>
+  <text id="t02" x="55" y="270" fill="black" font-size="18" font-weight="900" opacity="0">2</text>
+  <text id="t01" x="55" y="270" fill="black" font-size="18" font-weight="900" opacity="0">1</text>
+  <text id="t00" x="55" y="270" fill="black" font-size="18" font-weight="900" opacity="0">0</text>
+  <text id="t11" x="115" y="270" fill="black" font-size="18" font-weight="900" opacity="0">1</text>
+  <text id="t10" x="115" y="270" fill="black" font-size="18" font-weight="900" opacity="0">0</text>
+  <text id="t21" x="175" y="270" fill="black" font-size="18" font-weight="900" opacity="0">1</text>
+  <text id="t22" x="175" y="270" fill="black" font-size="18" font-weight="900" opacity="0">2</text>
+  <text id="t38" x="235" y="270" fill="black" font-size="18" font-weight="900" opacity="0">8</text>
+  <text id="t33" x="235" y="270" fill="black" font-size="18" font-weight="900" opacity="0">3</text>
+  <text id="t47" x="295" y="270" fill="black" font-size="18" font-weight="900" opacity="0">7</text>
+  <text id="t46" x="295" y="270" fill="black" font-size="18" font-weight="900" opacity="0">6</text>
+  <text id="t45" x="295" y="270" fill="black" font-size="18" font-weight="900" opacity="0">5</text>
+  <text id="t44" x="295" y="270" fill="black" font-size="18" font-weight="900" opacity="0">4</text>
+  <text id="t52" x="355" y="270" fill="black" font-size="18" font-weight="900" opacity="0">2</text>
+  <text id="t58" x="355" y="270" fill="black" font-size="18" font-weight="900" opacity="0">8</text>
+  <text id="t57" x="355" y="270" fill="black" font-size="18" font-weight="900" opacity="0">7</text>
+  <text id="t53" x="355" y="270" fill="black" font-size="18" font-weight="900" opacity="0">3</text>
+  <text id="t54" x="355" y="270" fill="black" font-size="18" font-weight="900" opacity="0">4</text>
+  <text id="t55" x="355" y="270" fill="black" font-size="18" font-weight="900" opacity="0">5</text>
+  <text id="t65" x="415" y="270" fill="black" font-size="18" font-weight="900" opacity="0">5</text>
+  <text id="t66" x="415" y="270" fill="black" font-size="18" font-weight="900" opacity="0">6</text>
+  <text id="t74" x="475" y="270" fill="black" font-size="18" font-weight="900" opacity="0">4</text>
+  <text id="t77" x="475" y="270" fill="black" font-size="18" font-weight="900" opacity="0">7</text>
+  <text id="t89" x="535" y="270" fill="black" font-size="18" font-weight="900" opacity="0">9</text>
+  <text id="t88" x="535" y="270" fill="black" font-size="18" font-weight="900" opacity="0">8</text>
+  <text id="t96" x="595" y="270" fill="black" font-size="18" font-weight="900" opacity="0">6</text>
+  <text id="t97" x="595" y="270" fill="black" font-size="18" font-weight="900" opacity="0">7</text>
+  <text id="t98" x="595" y="270" fill="black" font-size="18" font-weight="900" opacity="0">8</text>
+  <text id="t99" x="595" y="270" fill="black" font-size="18" font-weight="900" opacity="0">9</text>
+  
+  
+  <circle id="rc3" r="30"  cx="60" cy="200" fill="red"></circle>
   <circle id="rc0" r="30"  cx="120" cy="200" fill="red"></circle>
   <circle id="rc1" r="30"  cx="180" cy="200" fill="red"></circle>
   <circle id="rc8" r="30"  cx="240" cy="200" fill="red"></circle>
@@ -26,6 +59,7 @@ p {
   <circle id="rc6" r="30"  cx="600" cy="200" fill="red"></circle>
   
   
+  
   <animate 
            xlink:href="#rc3"
            attributeName="cy"
@@ -35,6 +69,16 @@ p {
            begin="click"
            fill="freeze" 
            id="ca31"/>
+  
+  <animate
+           xlink:href="#t3"
+           attributeName="cy"
+           from="200"
+           to="100" 
+           dur="2s"
+           begin="0s"
+           fill="freeze" 
+           id="t31"/>
   
   <animate 
            xlink:href="#rc6"
@@ -885,4 +929,467 @@ p {
            begin="ca8015.begin+1.5s"
            fill="freeze"
            id="ca8016"/>
-</html>
+
+
+  <animate 
+           xlink:href="#t03"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="2s"
+           dur="2s"
+           fill="freeze"
+           id="t03"/>
+  <animate 
+           xlink:href="#t10"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="2s"
+           dur="2s"
+           fill="freeze"
+           id="t03"/>
+  <animate 
+           xlink:href="#t21"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="2s"
+           dur="2s"
+           fill="freeze"
+           id="t03"/>
+  <animate 
+           xlink:href="#t38"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="2s"
+           dur="2s"
+           fill="freeze"
+           id="t03"/>
+  <animate 
+           xlink:href="#t47"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="2s"
+           dur="2s"
+           fill="freeze"
+           id="t03"/>
+  <animate 
+           xlink:href="#t52"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="2s"
+           dur="2s"
+           fill="freeze"
+           id="t03"/>
+  <animate 
+           xlink:href="#t65"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="2s"
+           dur="2s"
+           fill="freeze"
+           id="t03"/>
+  <animate 
+           xlink:href="#t74"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="2s"
+           dur="2s"
+           fill="freeze"
+           id="t03"/>
+  <animate 
+           xlink:href="#t89"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="2s"
+           dur="2s"
+           fill="freeze"
+           id="t03"/>
+  <animate 
+           xlink:href="#t96"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="2s"
+           dur="2s"
+           fill="freeze"
+           id="t03"/>
+  
+  <animate 
+           xlink:href="#t52"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+24s"
+           dur="2s"
+           fill="freeze"
+           id="t52"/>
+  <animate 
+           xlink:href="#t03"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+24s"
+           dur="2s"
+           fill="freeze"
+           id="t031"/>
+  <animate 
+           xlink:href="#t53"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+27s"
+           dur="2s"
+           fill="freeze"
+           id="t53"/>
+  <animate 
+           xlink:href="#t02"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+27s"
+           dur="2s"
+           fill="freeze"
+           id="t02"/>
+  
+  <animate 
+           xlink:href="#t53"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+42s"
+           dur="2s"
+           fill="freeze"
+           id="t53"/>
+  <animate 
+           xlink:href="#t38"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+42s"
+           dur="2s"
+           fill="freeze"
+           id="t38"/>
+  <animate 
+           xlink:href="#t58"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+44s"
+           dur="2s"
+           fill="freeze"
+           id="t58"/>
+  <animate 
+           xlink:href="#t33"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+44s"
+           dur="2s"
+           fill="freeze"
+           id="t33"/>
+  
+  <animate 
+           xlink:href="#t02"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+60s"
+           dur="2s"
+           fill="freeze"
+           id="t02"/>
+  <animate 
+           xlink:href="#t21"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+60s"
+           dur="2s"
+           fill="freeze"
+           id="t21"/>
+  <animate 
+           xlink:href="#t01"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+62s"
+           dur="2s"
+           fill="freeze"
+           id="t01"/>
+  <animate 
+           xlink:href="#t22"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+62s"
+           dur="2s"
+           fill="freeze"
+           id="t22"/>
+  
+  <animate 
+           xlink:href="#t01"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+76s"
+           dur="2s"
+           fill="freeze"
+           id="t01"/>
+  <animate 
+           xlink:href="#t10"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+76s"
+           dur="2s"
+           fill="freeze"
+           id="t10"/>
+  <animate 
+           xlink:href="#t00"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+78s"
+           dur="2s"
+           fill="freeze"
+           id="t01"/>
+  <animate 
+           xlink:href="#t11"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+78s"
+           dur="2s"
+           fill="freeze"
+           id="t22"/>
+  
+  <animate 
+           xlink:href="#t47"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+95s"
+           dur="2s"
+           fill="freeze"
+           id="t47"/>
+  <animate 
+           xlink:href="#t96"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+95s"
+           dur="2s"
+           fill="freeze"
+           id="t96"/>
+  <animate 
+           xlink:href="#t97"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+97s"
+           dur="2s"
+           fill="freeze"
+           id="t97"/>
+  <animate 
+           xlink:href="#t46"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+97s"
+           dur="2s"
+           fill="freeze"
+           id="t46"/>
+  
+  <animate 
+           xlink:href="#t58"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+103s"
+           dur="2s"
+           fill="freeze"
+           id="t58"/>
+  <animate 
+           xlink:href="#t97"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+103s"
+           dur="2s"
+           fill="freeze"
+           id="t97"/>
+  <animate 
+           xlink:href="#t98"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+105s"
+           dur="2s"
+           fill="freeze"
+           id="t98"/>
+  <animate 
+           xlink:href="#t57"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+105s"
+           dur="2s"
+           fill="freeze"
+           id="t57"/>
+  
+  <animate 
+           xlink:href="#t57"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+115s"
+           dur="2s"
+           fill="freeze"
+           id="t57"/>
+  <animate 
+           xlink:href="#t74"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+115s"
+           dur="2s"
+           fill="freeze"
+           id="t74"/>
+  <animate 
+           xlink:href="#t77"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+117s"
+           dur="2s"
+           fill="freeze"
+           id="t77"/>
+  <animate 
+           xlink:href="#t54"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+117s"
+           dur="2s"
+           fill="freeze"
+           id="t54"/>
+  
+  <animate 
+           xlink:href="#t46"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+132s"
+           dur="2s"
+           fill="freeze"
+           id="t46"/>
+  <animate 
+           xlink:href="#t65"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+132s"
+           dur="2s"
+           fill="freeze"
+           id="t65"/>
+  <animate 
+           xlink:href="#t66"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+134s"
+           dur="2s"
+           fill="freeze"
+           id="t66"/>
+  <animate 
+           xlink:href="#t45"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+134s"
+           dur="2s"
+           fill="freeze"
+           id="t45"/>
+  
+  <animate 
+           xlink:href="#t54"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+148s"
+           dur="2s"
+           fill="freeze"
+           id="t54"/>
+  <animate 
+           xlink:href="#t45"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+148s"
+           dur="2s"
+           fill="freeze"
+           id="t45"/>
+  <animate 
+           xlink:href="#t55"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+151s"
+           dur="2s"
+           fill="freeze"
+           id="t55"/>
+  <animate 
+           xlink:href="#t44"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+151s"
+           dur="2s"
+           fill="freeze"
+           id="t44"/>
+  
+  <animate 
+           xlink:href="#t89"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+166s"
+           dur="2s"
+           fill="freeze"
+           id="t89"/>
+  <animate 
+           xlink:href="#t98"
+           attributeName="opacity"
+           from="1"
+           to="0"
+           begin="ca31.begin+166s"
+           dur="2s"
+           fill="freeze"
+           id="t98"/>
+  <animate 
+           xlink:href="#t99"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+168s"
+           dur="2s"
+           fill="freeze"
+           id="t99"/>
+  <animate 
+           xlink:href="#t88"
+           attributeName="opacity"
+           from="0"
+           to="1"
+           begin="ca31.begin+168s"
+           dur="2s"
+           fill="freeze"
+           id="t88"/>
+</svg>
+<p>Для воспроизведения анимации нажмите на правый кружок.</p>
