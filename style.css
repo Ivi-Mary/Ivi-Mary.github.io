@@ -1,7 +1,7 @@
 Catalog{
 	display: block;
 	width:600px;
-  height:950px;
+	height:950px;
 	margin:0 auto;
 	background-color:#56433D;
   padding:5px;
@@ -17,7 +17,7 @@ Book{
 name{
 	font:20px Tahoma;
 	display: block;
-  color:black;
+	color:black;
 }
 genre{
 	display: block;
@@ -25,15 +25,15 @@ genre{
 }
 count{
 	display: block;
-  color:black;
+	color:black;
 }
 cost{
 	display: block;
 	font-weight: bold;
-  color:black;
+	color:black;
 }
 h1{
-  text-align: center;
-  font:26px Tahoma;
-  color:#F9C941
+	text-align: center;
+	font:26px Tahoma;
+	color:#F9C941;
 }
