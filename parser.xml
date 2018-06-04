@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="style.css"?>
 <Catalog> 	
-   <h1>Серийные книжные издания - Книжный Клуб.</h1><h1>Клуб Семейного Досуга</h1>
+   <h1>Серийные книжные издания - Книжный Клуб</h1>
    <Book>
 	<name>«Академия магии»</name>
 	<genre>романтическое фэнтези</genre>
