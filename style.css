@@ -4,7 +4,7 @@ Catalog{
 	height:950px;
 	margin:0 auto;
 	background-color:#56433D;
-  padding:5px;
+	padding:5px;
 }
 Book{
 	display: block;
@@ -15,25 +15,26 @@ Book{
 	padding:13px;
 }
 name{
-	font:20px Tahoma;
+	font:18px Tahoma;
 	display: block;
 	color:black;
+	text-align: center;
 }
 genre{
 	display: block;
-	color:#56433D;
+	color: black;
 }
 count{
 	display: block;
-	color:black;
+	color: black;
 }
 cost{
 	display: block;
 	font-weight: bold;
-	color:black;
+	color: black;
 }
 h1{
 	text-align: center;
 	font:26px Tahoma;
-	color:#F9C941;
+	color:#F9C941
 }
