@@ -2,46 +2,46 @@
 <?xml-stylesheet type="text/css" href="style.css"?>
 <Catalog> 	
    <h1>Серийные книжные издания - Книжный Клуб</h1>
-   <Book>
-	<name>«Академия магии»</name>
-	<genre>романтическое фэнтези</genre>
-	<count>Количество книг: 14</count>
-	<cost>79,90 UAH</cost>
-   </Book>
-   <Book>
-       <name>«Шедевры мировой классики»</name>
-       <genre>классика</genre>
-       <count>Количество книг: 20</count>
-       <cost>89,90 UAH</cost>
-   </Book>
-   <Book>
-       <name>«155 рецептов наших бабушек»</name>
-       <genre>рецепты</genre>
-       <count>Количество книг: 20</count>
-       <cost>59,90 UAH</cost>
-   </Book>
-   <Book>
-       <name>«Золотой век детектива»</name>
-       <genre>детектив</genre>
-       <count>Количество книг: 14</count>
-       <cost>69,90 UAH</cost>
-   </Book>
-   <Book>
-       <name>«Бібліотека пригод»</name>
-       <genre>пригоди</genre>
-       <count>Кількість книжок: 20</count>
-       <cost>59,90 UAH</cost>
-   </Book>
-   <Book>
-       <name>«Малювання за номерами»</name>
-       <genre>відсутній</genre>
-       <count>Кількість картин: 4</count>
-       <cost>179,00 UAH</cost>
-   </Book>
-   <Book>
-       <name>«Дитяча енциклопедія»</name>
-       <genre>дитяча література</genre>
-       <count>Кількість книжок: 14</count>
-       <cost>69,90 UAH</cost>
-		</Book>
+	<Book>
+		<name>«Академия магии»</name>
+		<genre>Жанр: романтическое фэнтези</genre>
+		<count>Количество книг: 14</count>
+		<cost>Цена: 79,90 UAH</cost>
+	</Book>
+	<Book>
+		<name>«Шедевры мировой классики»</name>
+		<genre>Жанр: классика</genre>
+		<count>Количество книг: 20</count>
+		<cost>Цена: 89,90 UAH</cost>
+	</Book>
+	<Book>
+		<name>«155 рецептов наших бабушек»</name>
+		<genre>Жанр: рецепты</genre>
+		<count>Количество книг: 20</count>
+		<cost>Цена: 59,90 UAH</cost>
+	</Book>
+	<Book>
+		<name>«Золотой век детектива»</name>
+		<genre>Жанр: детектив</genre>
+		<count>Количество книг: 14</count>
+		<cost>Цена: 69,90 UAH</cost>
+	</Book>
+	<Book>
+		<name>«Бібліотека пригод»</name>
+		<genre>Жанр: пригоди</genre>
+		<count>Кількість книжок: 20</count>
+		<cost>Ціна: 59,90 UAH</cost>
+	</Book>
+	<Book>
+		<name>«Малювання за номерами»</name>
+		<genre>Жанр: відсутній</genre>
+		<count>Кількість картин: 4</count>
+		<cost>Ціна: 179,00 UAH</cost>
+	</Book>
+	<Book>
+		<name>«Дитяча енциклопедія»</name>
+		<genre>Жанр: дитяча література</genre>
+		<count>Кількість книжок: 14</count>
+		<cost>Цена: 69,90 UAH</cost>
+	</Book>
 </Catalog>
