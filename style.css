@@ -1,6 +1,6 @@
 Catalog{
 	display: block;
-	width:600px;
+	width:700px;
 	height:950px;
 	margin:0 auto;
 	background-color:#56433D;
@@ -9,26 +9,29 @@ Catalog{
 Book{
 	display: block;
 	border:1px solid;
-	width:500px;
+	width:600px;
 	margin:15px auto;
 	background-color:#F9C941;
 	padding:13px;
 }
 name{
-	font:18px Tahoma;
+	font:19px Tahoma;
 	display: block;
 	color:black;
 	text-align: center;
 }
 genre{
+	font:17px Tahoma;
 	display: block;
 	color: black;
 }
 count{
+	font:17px Tahoma;
 	display: block;
 	color: black;
 }
 cost{
+	font:17px Tahoma;
 	display: block;
 	font-weight: bold;
 	color: black;
