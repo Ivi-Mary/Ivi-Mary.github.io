@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="style.css"?>
 <catalog> 	
-	<title>Парсинг</title>
-   <h1>Серийные книжные издания - Книжный Клуб. Клуб Семейного Досуга</h1>
+   <h1>Серийные книжные издания - Книжный Клуб.<br>Клуб Семейного Досуга</h1>
    <Book>
-			<name>«Академия магии»</name>
-         <genre>романтическое фэнтези</genre>
-			<count>Количество книг: 14</count>
-         <cost>79,90 UAH</cost>
+	<name>«Академия магии»</name>
+	<genre>романтическое фэнтези</genre>
+	<count>Количество книг: 14</count>
+	<cost>79,90 UAH</cost>
    </Book>
    <Book>
        <name>«Шедевры мировой классики»</name>
